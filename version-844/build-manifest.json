@@ -1,0 +1,11 @@
+{
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "assets": [
+    "assets/css/style.css",
+    "assets/js/main.js",
+    "assets/js/movies-data.js"
+  ],
+  "generated": "2026-05-25"
+}
